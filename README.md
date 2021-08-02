@@ -1,4 +1,4 @@
-# ITWP 2750 - PHP Square Yards Room Measurement
+# PHP Square Yards Room Measurement
 
 Project objectives:
 
